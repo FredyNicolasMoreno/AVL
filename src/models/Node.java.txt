@@ -2,6 +2,7 @@ package models;
 
 public class Node{
 
-
+	private int info;
+	
 
 }
